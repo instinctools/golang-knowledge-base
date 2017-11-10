@@ -32,6 +32,7 @@
 - Visualizing Concurrency in Go
 	- GoWayFest 2017, Ivan Danyliuk - [https://www.youtube.com/watch?v=QNY2QcmxVJQ](https://www.youtube.com/watch?v=QNY2QcmxVJQ)
 	- blog post [http://divan.github.io/posts/go_concurrency_visualize](http://divan.github.io/posts/go_concurrency_visualize)
+- Go sync.Pool (RU) [https://habrahabr.ru/post/277137](https://habrahabr.ru/post/277137)
 
 ### Advanced
 
