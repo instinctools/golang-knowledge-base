@@ -24,6 +24,7 @@
 - Read it now! 50 Shades of Go: Traps, Gotchas, and Common Mistakes for New Golang Devs [http://devs.cloudimmunity.com/gotchas-and-common-mistakes-in-go-golang](http://devs.cloudimmunity.com/gotchas-and-common-mistakes-in-go-golang)
 - perfect to read after you learned the basics [https://github.com/luciotato/golang-notes](https://github.com/luciotato/golang-notes)
 - common comments made during reviews of Go code [https://github.com/golang/go/wiki/CodeReviewComments](https://github.com/golang/go/wiki/CodeReviewComments)
+- This list of short golang code tips & tricks will help keep collected knowledge in one place [https://github.com/beyondns/gotips](https://github.com/beyondns/gotips)
 - Applying The Clean Architecture to Go applications
 	- (EN) [http://manuel.kiessling.net/2012/09/28/applying-the-clean-architecture-to-go-applications](http://manuel.kiessling.net/2012/09/28/applying-the-clean-architecture-to-go-applications)
 	- (RU) [https://habrahabr.ru/post/269893](https://habrahabr.ru/post/269893)
