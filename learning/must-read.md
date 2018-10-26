@@ -17,6 +17,7 @@
 	- How to avoid gotchas in Go - Pointers (RU) [https://habrahabr.ru/post/325468/#ukazateli](https://habrahabr.ru/post/325468/#ukazateli)
 - Organize your code with Go packages [https://blog.learngoprogramming.com/code-organization-tips-with-packages-d30de0d11f46](https://blog.learngoprogramming.com/code-organization-tips-with-packages-d30de0d11f46)
 - is go an object oriented language? [http://spf13.com/post/is-go-object-oriented](http://spf13.com/post/is-go-object-oriented)
+- Go Training. The materials are intended for trainings provided by ArdanLabs but you can find a lot of useful examples to look into [https://github.com/ardanlabs/gotraining](https://github.com/ardanlabs/gotraining)
 
 ### Experienced
 
@@ -28,6 +29,7 @@
 - Applying The Clean Architecture to Go applications
 	- (EN) [http://manuel.kiessling.net/2012/09/28/applying-the-clean-architecture-to-go-applications](http://manuel.kiessling.net/2012/09/28/applying-the-clean-architecture-to-go-applications)
 	- (RU) [https://habrahabr.ru/post/269893](https://habrahabr.ru/post/269893)
+	- project example [https://github.com/CaptainCodeman/clean-go](https://github.com/CaptainCodeman/clean-go)
 - The Saga of Go Dependency Management [https://blog.gopheracademy.com/advent-2016/saga-go-dependency-management](https://blog.gopheracademy.com/advent-2016/saga-go-dependency-management)
 - Lesser-Known Features of Go Test [https://splice.com/blog/lesser-known-features-go-test](https://splice.com/blog/lesser-known-features-go-test)
 - Visualizing Concurrency in Go
