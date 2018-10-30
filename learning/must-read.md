@@ -26,6 +26,7 @@
 - perfect to read after you learned the basics [https://github.com/luciotato/golang-notes](https://github.com/luciotato/golang-notes)
 - common comments made during reviews of Go code [https://github.com/golang/go/wiki/CodeReviewComments](https://github.com/golang/go/wiki/CodeReviewComments)
 - This list of short golang code tips & tricks will help keep collected knowledge in one place [https://github.com/beyondns/gotips](https://github.com/beyondns/gotips)
+- This collection of practical performance benchmarks of Go packages and algorithms aims to help developers write fast and efficient programs. [https://stackimpact.com/blog/practical-golang-benchmarks](https://stackimpact.com/blog/practical-golang-benchmarks)
 - Applying The Clean Architecture to Go applications
 	- (EN) [http://manuel.kiessling.net/2012/09/28/applying-the-clean-architecture-to-go-applications](http://manuel.kiessling.net/2012/09/28/applying-the-clean-architecture-to-go-applications)
 	- (RU) [https://habrahabr.ru/post/269893](https://habrahabr.ru/post/269893)
