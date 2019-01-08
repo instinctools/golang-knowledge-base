@@ -17,6 +17,9 @@
 	- How to avoid gotchas in Go - Pointers (RU) [https://habrahabr.ru/post/325468/#ukazateli](https://habrahabr.ru/post/325468/#ukazateli)
 - Organize your code with Go packages [https://blog.learngoprogramming.com/code-organization-tips-with-packages-d30de0d11f46](https://blog.learngoprogramming.com/code-organization-tips-with-packages-d30de0d11f46)
 - is go an object oriented language? [http://spf13.com/post/is-go-object-oriented](http://spf13.com/post/is-go-object-oriented)
+- Type hierarchies, generics
+	- https://appliedgo.net/generics
+	- https://www.ardanlabs.com/blog/2016/10/reducing-type-hierarchies.html
 - Go Training. The materials are intended for trainings provided by ArdanLabs but you can find a lot of useful examples to look into [https://github.com/ardanlabs/gotraining](https://github.com/ardanlabs/gotraining)
 
 ### Experienced
