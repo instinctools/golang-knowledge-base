@@ -21,7 +21,9 @@
 	- https://appliedgo.net/generics
 	- https://www.ardanlabs.com/blog/2016/10/reducing-type-hierarchies.html
 - Go Training. The materials are intended for trainings provided by ArdanLabs but you can find a lot of useful examples to look into [https://github.com/ardanlabs/gotraining](https://github.com/ardanlabs/gotraining)
-
+- Practical Go: Real world advice for writing maintainable Go programs.
+	- (EN) [https://dave.cheney.net/practical-go/presentations/qcon-china.html](https://dave.cheney.net/practical-go/presentations/qcon-china.html)
+	- (RU) Практичный Go: советы по написанию поддерживаемых программ в реальном мире. [https://habr.com/ru/post/441842](https://habr.com/ru/post/441842)
 ### Experienced
 
 - a curated list of **awesome** Go frameworks [https://github.com/avelino/awesome-go](https://github.com/avelino/awesome-go)
