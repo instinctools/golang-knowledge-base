@@ -7,7 +7,9 @@
 ### Novice
 
 - official tour of the Go [https://tour.golang.org](https://tour.golang.org)
-- video lections from Mail.RU (RU) [https://www.youtube.com/watch?v=9Pk7xAT_aCU&list=PLrCZzMib1e9q-X5V9pTM6J0AemRWseM7I](https://www.youtube.com/watch?v=9Pk7xAT_aCU&list=PLrCZzMib1e9q-X5V9pTM6J0AemRWseM7I)
+- Mail.RU lections (RU) 
+	- web-services development in Go - [https://www.coursera.org/learn/golang-webservices-1](https://www.coursera.org/learn/golang-webservices-1)
+	- programming in Go [https://www.youtube.com/watch?v=9Pk7xAT_aCU&list=PLrCZzMib1e9q-X5V9pTM6J0AemRWseM7I](https://www.youtube.com/watch?v=9Pk7xAT_aCU&list=PLrCZzMib1e9q-X5V9pTM6J0AemRWseM7I)
 - the tale for people come from Node.js - "TJ Holowaychuk - Farewell Node.js" [https://medium.com/@tjholowaychuk/farewell-node-js-4ba9e7f3e52b](https://medium.com/@tjholowaychuk/farewell-node-js-4ba9e7f3e52b)
 - `$GOPATH` and `$GOROOT` (RU) [https://habrahabr.ru/post/249545](https://habrahabr.ru/post/249545)
 - Go Tooling in Action [https://www.youtube.com/watch?v=uBjoTxosSys](https://www.youtube.com/watch?v=uBjoTxosSys)
@@ -24,6 +26,7 @@
 - Practical Go: Real world advice for writing maintainable Go programs.
 	- (EN) [https://dave.cheney.net/practical-go/presentations/qcon-china.html](https://dave.cheney.net/practical-go/presentations/qcon-china.html)
 	- (RU) Практичный Go: советы по написанию поддерживаемых программ в реальном мире. [https://habr.com/ru/post/441842](https://habr.com/ru/post/441842)
+
 ### Experienced
 
 - a curated list of **awesome** Go frameworks [https://github.com/avelino/awesome-go](https://github.com/avelino/awesome-go)
